@@ -1,0 +1,17 @@
+{
+  "name": "azuredatalake",
+  "version": "0.0.0",
+  "description": "azuredatalake",
+  "main": "app.js",
+  "author": {
+    "name": "sreeram"
+  },
+  "dependencies": {
+    "adal-node": "^0.1.22",
+    "azure-arm-datalake-store": "^0.4.2",
+    "azure-arm-keyvault": "^0.11.4",
+    "azure-keyvault": "^0.11.0",
+    "ms-rest-azure": "^1.15.0",
+    "util": "^0.10.3"
+  }
+}
